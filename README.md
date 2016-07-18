@@ -1,2 +1,2 @@
-### ÀûÓÃEditTextµÄRightDrawableÀ´¿ØÖÆÃÜÂëÊÇ·ñ¿É¼û£¬ÑİÊ¾Í¼ÈçÏÂËùÊ¾  
-![EditTextPassword](https://github.com/Blankj/EditTextPassword/img/etp.gif)
+### åˆ©ç”¨EditTextçš„RightDrawableæ¥æ§åˆ¶å¯†ç æ˜¯å¦å¯è§ï¼Œæ¼”ç¤ºå›¾å¦‚ä¸‹æ‰€ç¤º  
+![EditTextPassword](https://github.com/Blankj/EditTextPassword/tree/master/img/etp.gif)
