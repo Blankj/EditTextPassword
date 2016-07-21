@@ -25,7 +25,7 @@ implements EditTextPassword.DrawableRightListener{
 
     //同样地可以在这可以实现其他的效果，比如一键清空
     @Override
-    public void onDrawableRightClick(View view) {
+    public void onDrawableRightClick() {
         if (mIsShow) {
             inputETP.setCompoundDrawablesWithIntrinsicBounds(0, 0, R.drawable.eye_grey, 0) ;
             inputETP.setInputType(InputType.TYPE_CLASS_TEXT | EditorInfo.TYPE_TEXT_VARIATION_PASSWORD);
